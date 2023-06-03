@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.FizzBuzzTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-06-03T10:11:55" hostname="s3033119" time="0.085">
+<testsuite name="org.example.FizzBuzzTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-03T10:19:00" hostname="s3033119" time="0.054">
   <properties/>
-  <testcase name="数字15の倍数を渡すとFizzBuzzを返す()" classname="org.example.FizzBuzzTest" time="0.027"/>
-  <testcase name="数字5の倍数を渡すとBuzzを返す()" classname="org.example.FizzBuzzTest" time="0.002"/>
-  <testcase name="数字3の倍数を渡すとFizzを返す()" classname="org.example.FizzBuzzTest" time="0.002"/>
-  <testcase name="数字2を渡すと2と返す()" classname="org.example.FizzBuzzTest" time="0.001"/>
-  <testcase name="数字5を返すとBuzzを返す()" classname="org.example.FizzBuzzTest" time="0.002"/>
-  <testcase name="数字3の倍数でも5の倍数でもないものを渡すと数字自身を返す()" classname="org.example.FizzBuzzTest" time="0.002"/>
-  <testcase name="数字4を渡すと4と返す()" classname="org.example.FizzBuzzTest" time="0.003"/>
-  <testcase name="数字が0以下の時は例外を返す()" classname="org.example.FizzBuzzTest" time="0.006"/>
-  <testcase name="数字15を渡すとFizzBuzzを返す()" classname="org.example.FizzBuzzTest" time="0.002"/>
-  <testcase name="数字1を渡すと1と返す()" classname="org.example.FizzBuzzTest" time="0.004"/>
-  <testcase name="数字3を渡すとFizzと返す()" classname="org.example.FizzBuzzTest" time="0.005"/>
+  <testcase name="数字3の倍数でも5の倍数でもないものを渡すと数字自身を返す()" classname="org.example.FizzBuzzTest" time="0.042"/>
+  <testcase name="数字が0以下の時は例外を返す()" classname="org.example.FizzBuzzTest" time="0.008"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
