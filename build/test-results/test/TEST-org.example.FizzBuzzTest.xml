@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.FizzBuzzTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-03T10:19:00" hostname="s3033119" time="0.054">
-  <properties/>
-  <testcase name="数字3の倍数でも5の倍数でもないものを渡すと数字自身を返す()" classname="org.example.FizzBuzzTest" time="0.042"/>
-  <testcase name="数字が0以下の時は例外を返す()" classname="org.example.FizzBuzzTest" time="0.008"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
